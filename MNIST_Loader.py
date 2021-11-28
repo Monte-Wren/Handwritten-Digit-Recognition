@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  5 16:49:28 2021
-
-@author: Monte
-"""
 
 import _pickle as cPickle
 import gzip
